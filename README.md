@@ -1,3 +1,3 @@
 # LamdaClient
-##Based on OxideWaveLength's BaseClient
-###Added Modules: Kill Aura, No Fall
+Based on OxideWaveLength's BaseClient
+Added Modules: Kill Aura, No Fall
