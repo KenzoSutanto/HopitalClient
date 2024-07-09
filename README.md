@@ -1,4 +1,4 @@
-# LamdaClient
+# Hôpital Client
 Based on OxideWaveLength's BaseClient
 
 Added Modules: Kill Aura, No Fall, Full Bright, Step, Velocity, Scaffold
